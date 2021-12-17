@@ -7,23 +7,29 @@
 		- [TEXT-EDITOR (IDE)](#text-editor-ide)
 			- [~_VSCode Extentions_](#vscode-extentions)
 		- [VERSION CONTROL](#version-control)
+			- [~_Tools_](#tools)
+			- [~_Learning_](#learning)
 		- [BROWSER](#browser)
 			- [~_Google Chrome Extensions_](#google-chrome-extensions)
 	- [>> <u>Languages</u> <<](#-ulanguagesu-)
 		- [HTML](#html)
+			- [~_Tools_](#tools-1)
+			- [~_Information_](#information)
 		- [CSS](#css)
 			- [~_Preprocessors_](#preprocessors)
 			- [~_Generators_](#generators)
 			- [~_Frameworks_](#frameworks)
 			- [~_Animations_](#animations)
 			- [~_Games_](#games)
-			- [~_Information_](#information)
+			- [~_Information_](#information-1)
 		- [JAVASCRIPT](#javascript)
 			- [~_API's_](#apis)
 			- [~_Regular Expressions_](#regular-expressions)
 			- [~_Compilers_](#compilers)
 			- [~_TSK_](#tsk)
+			- [~_Mental Models_](#mental-models)
 			- [~_Games_](#games-1)
+			- [~_Information_](#information-2)
 		- [REACT](#react)
 			- [~_Frameworks_](#frameworks-1)
 	- [>> <u>Design</u> <<](#-udesignu-)
@@ -38,6 +44,7 @@
 		- [TYPOGRAPHY](#typography)
 		- [ICONS](#icons)
 		- [FAVICON](#favicon)
+		- [THEORY](#theory)
 		- [INSPIRATION](#inspiration)
 	- [>> <u>Optimizations</u> <<](#-uoptimizationsu-)
 		- [SEO](#seo)
@@ -94,11 +101,17 @@ TSK about Developer Environment
 
 ### VERSION CONTROL
 
+#### ~_Tools_
+
 - **[Git](https://git-scm.com/)**: TSK
 
 - **[GitHub](https://github.com/)**: TSK
 
 - **[GitHub Desktop](https://desktop.github.com/)**: TSK
+
+#### ~_Learning_
+
+- [Learn Git Branching](https://learngitbranching.js.org/)
 
 ---
 
@@ -108,7 +121,21 @@ TSK about Developer Environment
 
 #### ~_Google Chrome Extensions_
 
-- **[TSK]()**: TSK
+- **[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)**: Technology profiler that shows you what websites are built with.
+
+- **[CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en)**: Extract CSS and build beautiful styleguides.
+
+- **[JSON Viewer Pro](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc?hl=en-US)**: Visualise JSON response in awesome Tree and Chart views.
+
+- **[Octotree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)**: Enhances GitHub code review and exploration.
+
+- **[Web Maker](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh?hl=en)**: Offline playground for your web experiments.
+
+- **[Go Full Page](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)**: Simplest way to take a full page screenshot of your current browser window.
+
+- **[ColorPicker Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)**: Zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more.
+
+- **[Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en)**: Analyses any web page for violations of best practices.
 
 ---
 
@@ -119,6 +146,24 @@ TSK about Developer Environment
 TSK About Languages
 
 ### HTML
+
+#### ~_Tools_
+
+- **[What the tag?!](https://whatthetag.com/#/)**: Quickly find out which HTML tag to use when.
+
+- **[HTML Table Generator](https://www.quackit.com/html/html_table_generator.cfm)**: Use this HTML Table Generator to create tables on the fly.
+
+- **[Browser Default Styles](https://browserdefaultstyles.com/)**: TSK
+
+- **[Lori Ipsum](https://loripsum.net/)**: TSK
+
+#### ~_Information_
+
+- **[HTML Best Practices](https://github.com/hail2u/html-best-practices)**: TSK
+
+- **[Idiomatic HTML](https://github.com/necolas/idiomatic-html)**: Principles of writing consistent, idiomatic HTML.
+
+- **[7 useful HTML attributes you may not know](https://dev.to/simonpaix/7-useful-html-attributes-you-may-not-know-7mn)**: List of HTML attributes that many beginners don't know, but that can be helpful.
 
 ---
 
@@ -132,7 +177,7 @@ TSK About Languages
 
 #### ~_Generators_
 
-- **[Box-Shadow Generator](TSK)**: TSK
+- **[Box-Shadow Generator](https://box-shadow.dev/)**: Create customized CSS box-shadows.
 
 - **[Gradient Generator](https://cssgradient.io/)**: TSK
 
@@ -162,6 +207,16 @@ TSK About Languages
 
 #### ~_Information_
 
+- **[Well Documented CSS Project](https://css-tricks.com/well-documented-css-codebase-look-like/)**: TSK
+
+- **[Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)**: TSK
+
+- **[Relearn CSS Layouts](https://every-layout.dev/)**: TSK
+
+- **[CSS Guides](https://www.smashingmagazine.com/guides/)**: TSK
+
+- **[10 modern layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU&ab_channel=GoogleChromeDevelopers)**: Highlights a few key terms and how much detail can be described in a single line of code.
+
 ---
 
 ### JAVASCRIPT
@@ -190,16 +245,30 @@ TSK About Languages
 
 - **[Typescript](https://www.typescriptlang.org/)**: TSK
 
+#### ~_Mental Models_
+
+- **[Just JavaScript](https://justjavascript.com/)**: TSK
+
 #### ~_Games_
 
 - **[JavaScript Robot](https://lab.reaal.me/jsrobot/)**: TSK
+
+#### ~_Information_
+
+- **[JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook&ab_channel=GoogleTechTalks)**: TSK
+
+- **[17 JavaScript One-Liners](https://javascript.plainenglish.io/17-life-saving-javascript-one-liners-part1-b0b0b32c9f61)**: TSK
+
+- **[What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)**: TSK
 
 ---
 
 ### REACT
 
 - **[]()**: TSK
+
 - **[]()**: TSK
+
 - **[]()**: TSK
 
 #### ~_Frameworks_
@@ -212,7 +281,7 @@ TSK About Languages
 
 ## >> <u>Design</u> <<
 
-TSK About Design
+TSK About Design.
 
 ### DESIGN TOOLS
 
@@ -324,6 +393,12 @@ TSK About Design
 
 ---
 
+### THEORY
+
+- **[Laws of UX](https://lawsofux.com/)**: TSK
+
+---
+
 ### INSPIRATION
 
 - **[Awwwards](https://www.awwwards.com/)**: TSK
@@ -362,7 +437,9 @@ TSK About Design
 
 - **[Colorable](https://colorable.jxnblk.com/)**: TSK
 
-- **[TSK](tsk)**: TSK
+- **[The Importance Of Manual Accessibility Testing](https://www.smashingmagazine.com/2018/09/importance-manual-accessibility-testing/)**: TSK
+
+- **[A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)**: TSK
 
 ---
 
@@ -384,6 +461,10 @@ TSK About Design
 
 ## >> <u>Career</u> <<
 
+TSK something about career
+
+- **[Tech Interview Handbook](https://techinterviewhandbook.org/)**: TSK
+
 ### RESUME
 
 - **[TSK](tsk)**: TSK
@@ -400,7 +481,23 @@ TSK About Design
 
 #### ~_Behavioral_
 
+- **[TSK](tsk)**: TSK
+
+- **[TSK](tsk)**: TSK
+
 #### ~_Technical_
+
+- **[LeetCode](https://leetcode.com/)**: TSK
+
+- **[AlgoExpert](https://www.algoexpert.io/product)**: TSK
+
+- **[CodeWars](https://www.codewars.com/)**: TSK
+
+- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
+- [123 Essential JavaScript Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
 
 ---
 
@@ -433,12 +530,8 @@ TSK About Design
 
 - [Front-End Checklist](https://frontendchecklist.io/)
 
-- [Browser Default Styles](https://browserdefaultstyles.com/)
-
 - [HashNode](https://hashnode.com/)
 
 - [FrontEnd Mentor](https://www.frontendmentor.io/resources)
 
 - [README Generator](https://readme.so/)
-
-**LOREM IPSUM TEXT**: [LORIPSUM](https://loripsum.net/)
