@@ -11,6 +11,7 @@
 			- [~_Learning_](#learning)
 		- [BROWSER](#browser)
 			- [~_Google Chrome Extensions_](#google-chrome-extensions)
+		- [DEPLOYMENT](#deployment)
 	- [>> <u>Languages</u> <<](#-ulanguagesu-)
 		- [HTML](#html)
 			- [~_Tools_](#tools-1)
@@ -26,12 +27,10 @@
 			- [~_API's_](#apis)
 			- [~_Regular Expressions_](#regular-expressions)
 			- [~_Compilers_](#compilers)
-			- [~_TSK_](#tsk)
+			- [~_Alternatives_](#alternatives)
 			- [~_Mental Models_](#mental-models)
 			- [~_Games_](#games-1)
 			- [~_Information_](#information-2)
-		- [REACT](#react)
-			- [~_Frameworks_](#frameworks-1)
 	- [>> <u>Design</u> <<](#-udesignu-)
 		- [DESIGN TOOLS](#design-tools)
 		- [WIREFRAMING](#wireframing)
@@ -57,19 +56,16 @@
 		- [INTERVIEWS](#interviews)
 			- [~_Behavioral_](#behavioral)
 			- [~_Technical_](#technical)
-	- [>> <u>Mentality</u> <<](#-umentalityu-)
-		- [TSK](#tsk-1)
-		- [TSK](#tsk-2)
-	- [TODO](#todo)
-	- [NOT SURE YET](#not-sure-yet)
+			- [~_Other_](#other)
+	- [**DOWNLOAD**](#download)
+
+_(No affiliate links)_
 
 ---
 
 ---
 
 ## >> <u>Developer Environment</u> <<
-
-TSK about Developer Environment
 
 ### TEXT-EDITOR (IDE)
 
@@ -109,9 +105,11 @@ TSK about Developer Environment
 
 - **[GitHub Desktop](https://desktop.github.com/)**: TSK
 
+- **[README Generator](https://readme.so/)**: TSK
+
 #### ~_Learning_
 
-- [Learn Git Branching](https://learngitbranching.js.org/)
+- **[Learn Git Branching](https://learngitbranching.js.org/)**: TSK
 
 ---
 
@@ -139,11 +137,18 @@ TSK about Developer Environment
 
 ---
 
+### DEPLOYMENT
+
+- **[Netlify](https://www.netlify.com/)**: Build, deploy,
+  & scale modern web projects.
+
+- **[Vecel](https://vercel.com/)**: Combines the best developer experience with an obsessive focus on end-user performance.
+
+---
+
 ---
 
 ## >> <u>Languages</u> <<
-
-TSK About Languages
 
 ### HTML
 
@@ -195,15 +200,13 @@ TSK About Languages
 
 - **[Animista](https://animista.net/)**: TSK
 
-- **[TSK]()**: TSK
+- **[Animate.css](https://animate.style/)**: Just-add-water CSS animations.
 
 #### ~_Games_
 
 - **[Flexbox Froggy](https://flexboxfroggy.com/)**: TSK
 
 - **[CSS Grid Garden](https://cssgridgarden.com/)**: TSK
-
-- **[TSK]()**: TSK
 
 #### ~_Information_
 
@@ -241,9 +244,9 @@ TSK About Languages
 
 - **[Babel](https://babeljs.io/)**: TSK
 
-#### ~_TSK_
+#### ~_Alternatives_
 
-- **[Typescript](https://www.typescriptlang.org/)**: TSK
+- **[Typescript](https://www.typescriptlang.org/)**: Strongly typed programming language that builds on JavaScript.
 
 #### ~_Mental Models_
 
@@ -263,25 +266,9 @@ TSK About Languages
 
 ---
 
-### REACT
-
-- **[]()**: TSK
-
-- **[]()**: TSK
-
-- **[]()**: TSK
-
-#### ~_Frameworks_
-
-- **[NextJS](https://nextjs.org/)**: TSK
-
----
-
 ---
 
 ## >> <u>Design</u> <<
-
-TSK About Design.
 
 ### DESIGN TOOLS
 
@@ -315,8 +302,6 @@ TSK About Design.
 
 - **[Color Hunt](https://colorhunt.co/)**: TSK
 
-- **[TSK]()**: TSK
-
 ### IMAGES
 
 #### ~_Stock Photos_
@@ -335,11 +320,9 @@ TSK About Design.
 
 #### ~**Image Altering**
 
-- [Image Compression](https://tinypng.com/)
+- **[Image Compression](https://tinypng.com/)**: TSK
 
 - **[Remove BG](https://www.remove.bg/)**: TSK
-
-- **[TSK]()**: TSK
 
 #### ~_Illustrations_
 
@@ -383,13 +366,13 @@ TSK About Design.
 
 ### FAVICON
 
-- **[https://maskable.app/editor](https://maskable.app/editor)**: TSK
+- **[Favicon Generator](https://www.favicon-generator.org/)**: TSK
 
-- **[https://www.favicon-generator.org/](https://www.favicon-generator.org/)**: TSK
+- **[Maskable](https://maskable.app/editor)**: TSK
 
-- **[https://realfavicongenerator.net/](https://realfavicongenerator.net/)**: TSK
+- **[Real Favicon Generator](https://realfavicongenerator.net/)**: TSK
 
-- **[https://favicon.io/favicon-converter/](https://favicon.io/favicon-converter/)**: TSK
+- **[Favicon Converter](https://favicon.io/favicon-converter/)**: TSK
 
 ---
 
@@ -425,7 +408,9 @@ TSK About Design.
 
 - **[CheckBot](https://www.checkbot.io/)**: TSK
 
-- **[TSK](tsk)**: TSK
+- **[Search Engine Optimization (SEO) Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide)**: Complete overview of the basics of SEO according to Google's best practices.
+
+- **[Ubersuggest](https://neilpatel.com/ubersuggest/)**: How to win the game of SEO.
 
 ---
 
@@ -453,7 +438,7 @@ TSK About Design.
 
 ### TESTING
 
-- **[TSK](tsk)**: TSK
+- **[Intern.](https://theintern.io/)**: Write tests in JavaScript and TypeScript using any style you like (TDD, BDD, whatever!).
 
 ---
 
@@ -461,19 +446,21 @@ TSK About Design.
 
 ## >> <u>Career</u> <<
 
-TSK something about career
-
 - **[Tech Interview Handbook](https://techinterviewhandbook.org/)**: TSK
 
 ### RESUME
 
-- **[TSK](tsk)**: TSK
+- **[Front End Developer Resume Example & Guide](https://zety.com/blog/front-end-developer-resume-example)**: 20+ tips on building your Front-End Developer resume.
+
+- **[Front End Developer Resume Examples & Guide for 2021](https://enhancv.com/resume-examples/front-end-developer/)**: Customize this resume with ease using our seamless online resume builder.
 
 ---
 
 ### APPLICATIONS
 
-- **[TSK](tsk)**: TSK
+- **[Here are 4 best ways to apply for software engineer jobs](https://www.freecodecamp.org/news/here-are-4-best-ways-to-apply-for-software-engineer-jobs-and-exactly-how-to-use-them-a644a88b2241/)**: Four ways to apply for jobs that are particularly effective.
+
+- **[8 steps to finding the perfect software engineering job](https://techbeacon.com/app-dev-testing/8-steps-finding-perfect-software-engineering-job)**: Eight steps you can take to find and ride that rare unicorn down your chosen career path.
 
 ---
 
@@ -481,57 +468,34 @@ TSK something about career
 
 #### ~_Behavioral_
 
-- **[TSK](tsk)**: TSK
+- **[10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)**: 10 common software engineer behavioral interview questions with sample answers for you to review.
 
-- **[TSK](tsk)**: TSK
+- **[45 software developer behavioral questions for non-technical interviews](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)**: 45 behavioral interview question examples.
 
 #### ~_Technical_
 
-- **[LeetCode](https://leetcode.com/)**: TSK
-
 - **[AlgoExpert](https://www.algoexpert.io/product)**: TSK
+
+- **[LeetCode](https://leetcode.com/)**: TSK
 
 - **[CodeWars](https://www.codewars.com/)**: TSK
 
-- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- **[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)**: TSK
 
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- **[Coding Interview University](https://github.com/jwasham/coding-interview-university)**: TSK
 
-- [123 Essential JavaScript Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
+- **[123 Essential JavaScript Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)**: TSK
+
+---
+
+#### ~_Other_
+
+- **[HashNode](https://hashnode.com/)**: TSK
 
 ---
 
 ---
 
-## >> <u>Mentality</u> <<
+## **DOWNLOAD**
 
-### TSK
-
----
-
-### TSK
-
----
-
----
-
-## TODO
-
-- Rearrange the headings for each column
-- Rearrange the links in each list
-- Delete irrelevent or redundant ones
-- Write Text for each tool
-- Add a tag for each tool
-- Do more research!
-
----
-
-## NOT SURE YET
-
-- [Front-End Checklist](https://frontendchecklist.io/)
-
-- [HashNode](https://hashnode.com/)
-
-- [FrontEnd Mentor](https://www.frontendmentor.io/resources)
-
-- [README Generator](https://readme.so/)
+[Download Your Free PDF Version of this guide here!](https://blog.bulletproof-code.com/download/front-end-resource-list)
