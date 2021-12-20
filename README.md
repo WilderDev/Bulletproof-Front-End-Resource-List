@@ -449,6 +449,9 @@ _(No affiliate links)_
 
 - **[Tech Interview Handbook](https://techinterviewhandbook.org/)**: Free curated interview preparation materials for busy engineers.
 
+- **[Getting a Gig](https://github.com/cassidoo/getting-a-gig?fbclid=IwAR3264APOm6H-6iEZU8iMUw5raC4wVj_UdrxKv602gkQOf0WOE3EvKDQwxs#your-resume)**: Guide for getting a gig as a tech student.
+
+
 ### RESUME
 
 - **[Front End Developer Resume Example & Guide](https://zety.com/blog/front-end-developer-resume-example)**: 20+ tips on building your Front-End Developer resume.
