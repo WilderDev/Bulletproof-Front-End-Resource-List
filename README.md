@@ -143,7 +143,7 @@ _(No affiliate links)_
 - **[Netlify](https://www.netlify.com/)**: Build, deploy,
   & scale modern web projects.
 
-- **[Vecel](https://vercel.com/)**: Combines the best developer experience with an obsessive focus on end-user performance.
+- **[Vercel](https://vercel.com/)**: Combines the best developer experience with an obsessive focus on end-user performance.
 
 ---
 
