@@ -1,6 +1,6 @@
 # Bulletproof-Front-End-Resource-List
 
-> All the resources you will need to learn and become a professional Front-End Developer!
+> All the resources you will need to learn and become a professional [Front-End Developer](https://bulletproof-code.com)!
 
 - [Bulletproof-Front-End-Resource-List](#bulletproof-front-end-resource-list)
 	- [>> <u>Developer Environment</u> <<](#-udeveloper-environmentu-)
@@ -502,4 +502,6 @@ _(No affiliate links)_
 
 ## **DOWNLOAD**
 
-[Download Your Free PDF Version of this guide here!](https://blog.bulletproof-code.com/opt-in/bp-front-end)
+[Download Your Free PDF Version of this guide here!](https://bulletproof-code.com/static/downloads/Bulletproof-Front-End-Resource-List.pdf)
+
+[Download a FREE 100+ page Bulletproof Guide to Becoming a PAID Front-End Developer](https://bulletproof-code.com)
