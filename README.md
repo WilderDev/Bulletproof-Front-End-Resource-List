@@ -85,8 +85,6 @@ _(No affiliate links)_
 
 - **[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)**: Help you create more human-friendly comments in your code.
 
-- **[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)**: Customizable extension for colorizing matching brackets.
-
 - **[JavaScript ES6 Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)**: Code snippets for JavaScript in ES6 syntax.
 
 - **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)**: Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
