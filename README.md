@@ -494,12 +494,4 @@ _(No affiliate links)_
 
 - **[HashNode](https://hashnode.com/)**: Everything you need to start blogging as a developer!
 
----
 
----
-
-## **DOWNLOAD**
-
-[Download Your Free PDF Version of this guide here!](https://bulletproof-code.com/static/downloads/Bulletproof-Front-End-Resource-List.pdf)
-
-[Download a FREE 100+ page Bulletproof Guide to Becoming a PAID Front-End Developer](https://bulletproof-code.com)
